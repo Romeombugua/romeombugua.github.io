@@ -279,7 +279,7 @@ img {
 }
 
 /* SMARTPHONE */
-@media (max-width: 600px) {
+@media (max-width: 800px) {
   #navbar {
     padding: 0rem 1rem;
     justify-content: center;
