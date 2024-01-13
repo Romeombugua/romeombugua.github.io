@@ -132,6 +132,10 @@ img {
   font-weight: 100;
 }
 
+#story {
+    font-weight: bold;
+}
+
 #caption {
   color: rgb(240, 248, 255);
 }
@@ -280,6 +284,26 @@ img {
     padding: 0rem 1rem;
     justify-content: center;
   }
+  #title {
+    font-family: "Lucida Handwriting", "Courier New", cursive;
+  color: #fff;
+  font-size: 4.5rem;
+  font-weight: bolder;
+  line-height: 2.2;
+  margin-bottom: 1rem;
+}
+
+.lead {
+    font-family: cursive;
+  font-size: 2.5rem;
+  color: #eee;
+  font-weight: 100;
+}
+
+#story {
+    font-weight: bold;
+    font-size: 2.5rem;
+}
 
   #projects .projects {
     grid-template-columns: repeat(1, 1fr);
