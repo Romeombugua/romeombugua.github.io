@@ -133,8 +133,8 @@ img {
 }
 
 #story {
-    font-weight: bold;
-    color: #eee;
+    font-weight: bolder;
+    color: #111111;
 }
 
 #caption {
@@ -285,6 +285,10 @@ img {
     padding: 0rem 1rem;
     justify-content: center;
   }
+  #story {
+    font-weight: bold;
+    color: #eee;
+}
 
   #projects .projects {
     grid-template-columns: repeat(1, 1fr);
